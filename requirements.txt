@@ -9,6 +9,7 @@ galaxy-util
 paramiko
 typing-extensions
 pydantic-tes>=0.1.5
+pyjwt
 
 ## Uncomment if using DRMAA queue manager.
 #drmaa
